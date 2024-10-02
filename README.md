@@ -1,6 +1,29 @@
 # Deep-Learning-on-Image-Classification
-The project is intended to give you experience to working on neural networks in a research ap- plication. It is also intended to give you experience working with topics covered in the last three weeks of class, particularly RNNs, for which this project is the evaluation. This means, in this project, you should evaluate CNNs, RNNs, and potentially even CNN+RNN combinations. You may also evaluate neural network topics we don’t explicitly get to cover in class, including but not lim- ited to generative models (GANs, VAEs), transformer architectures, or deep reinforcement learning.
-If you do not evaluate an RNN or other post-CNN algorithm, you will lose points for creativity in the rubric described at the end of this document.
-The goal will be to optimize the performance of decoding on a particular task; or else to apply one of these techniques to a research area. You may use any tools to implement these networks (e.g., PyTorch, Keras, TensorFlow etc.). Our philosophy here is that you already understand the principles of training these networks, doing backpropagation, optimization, etc., and are now well-equipped to use these packages that implement several of these operations for you.
-You may work on the datasets provided below, or do a project related to your own research / in- terests. If you are doing a project related to your own research / interests, please e-mail Prof. Kao directly to get approval. In general, as long as the project will explore a post-CNN topic, it should be approved. We will provide approval for custom project requests as long as they are sent prior to Friday, 1 March 2024. We will not approve any custom projects after this date.
-Students may work in groups of up to (and including) 4 people. To find teammates, you may use the “Search for Teammates” Piazza functionality. For more information, see https://support. piazza.com/support/solutions/articles/48001158117-search-for-teammates. You may also do the project individually.
+## Project Overview
+
+In this project, you will evaluate **CNNs**, **RNNs**, and potentially combinations of **CNN+RNN** architectures. You may also explore neural network topics beyond what we cover in class. These include, but are not limited to:
+- **Generative Models** (e.g., GANs, VAEs)
+- **Transformer Architectures**
+- **Deep Reinforcement Learning**
+
+## Creativity Requirement
+To encourage exploration, **evaluating an RNN or another post-CNN algorithm is mandatory**. Failure to do so will result in a loss of creativity points as outlined in the rubric at the end of this document.
+
+## Project Objective
+The goal is to:
+- **Optimize performance** on a particular task, or
+- **Apply a technique** to a research area of interest.
+
+You may use any tools to implement these networks, such as **PyTorch**, **Keras**, **TensorFlow**, etc. The assumption is that you already understand the principles of training, backpropagation, and optimization, and are ready to use these frameworks that handle many of these operations for you.
+
+## Datasets and Custom Projects
+You may use the datasets provided below or choose a project related to your own research/interests. If you're pursuing a custom project:
+- **Approval is required**. Please email Prof. Kao directly to get approval.
+- Projects must explore a **post-CNN topic** to be considered.
+- Custom project proposals must be submitted by **Friday, 1 March 2024**. No approval will be granted after this date.
+
+## Team Guidelines
+You may work individually or in groups of up to **4 people**. To find teammates, use the **"Search for Teammates"** functionality on Piazza: [Search for Teammates](https://support.piazza.com/support/solutions/articles/48001158117-search-for-teammates).
+
+
+
